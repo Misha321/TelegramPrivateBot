@@ -1,2 +1,0 @@
-# TelegramPrivateBot
-TelegramPrivateBot
